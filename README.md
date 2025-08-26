@@ -1,4 +1,4 @@
-![Banner](https://github.com/TUUSUARIO/TUUSUARIO/raw/main/assets/banner.jpeg)
+![Banner](https://github.com/Angeljpx/Angljpx/raw/main/assets/banner.jpeg)
 
 # 👋 Hi, I'm Angel P
 
@@ -7,16 +7,16 @@
 - 🚀 Currently working on learning advanced TypeScript patterns for scalable apps.
 - 🎯 Goal: become a skilled full-stack developer and grow as a developer.
 
-[!Portfolio](https://img.shields.io/badge/🌐%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angelperez.netlify.app)  
-[!Resume](https://img.shields.io/badge/📄%20Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Angeljpx/Angeljpx/raw/main/assets/ANGEL_PEREZ_RESUME .pdf)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angelperez.netlify.app)  
+[![Resume](https://img.shields.io/badge/📄%20Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/AngeljpxAngeljpx/AngeljpxAngeljpx/raw/main/assets/ANGEL_PEREZ_RESUME.pdf)
 
 ---
 
 ## 🌐 Connect with me:
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelperez10)  
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angeljpx.work@gmail.com)  
-![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angelperez.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelperez10)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angeljpx.work@gmail.com)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angelperez.netlify.app)
 
 ---
 
