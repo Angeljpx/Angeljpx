@@ -1,4 +1,4 @@
-![Banner](https://github.com/Angeljpx/Angljpx/raw/main/assets/banner.jpeg)
+![Banner](https://github.com/Angeljpx/Angeljpx/raw/main/assets/banner.jpeg)
 
 # 👋 Hi, I'm Angel P
 
@@ -8,7 +8,7 @@
 - 🎯 Goal: become a skilled full-stack developer and grow as a developer.
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angelperez.netlify.app)  
-[![Resume](https://img.shields.io/badge/📄%20Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/AngeljpxAngeljpx/AngeljpxAngeljpx/raw/main/assets/ANGEL_PEREZ_RESUME.pdf)
+[![Resume](https://img.shields.io/badge/📄%20Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Angeljpx/Angeljpx/raw/main/assets/ANGEL_PEREZ_RESUME.pdf)
 
 ---
 
